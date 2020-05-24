@@ -1,6 +1,8 @@
-# Deep Learning Project: Generate TV Scripts using RNN
+# Deep Learning 
 
-## By Vedavyas Kamath
+## Project: Generate TV Scripts using RNN
+
+### By Vedavyas Kamath
 
 ### Goal/Aim
 To design & build a RNN that will generate a new script for TV Series [Seinfield](https://en.wikipedia.org/wiki/Seinfeld) using scripts for the previous seasons.
